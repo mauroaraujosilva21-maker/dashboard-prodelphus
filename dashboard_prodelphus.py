@@ -2,6 +2,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import numpy as np
 
 # Configuração da página com as cores da identidade visual (Simulação)
 st.set_page_config(page_title="Pro Delphus - Tech Sales & Operations", layout="wide")
